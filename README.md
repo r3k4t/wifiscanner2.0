@@ -1,4 +1,4 @@
-<h2>Wifiscanner 2.0</h2>
+<h2>Wifi Scanner 2.0</h2>
 
 <h4>Author : RKT</h4>
 
