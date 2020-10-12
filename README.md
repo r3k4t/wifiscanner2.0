@@ -43,11 +43,12 @@ We need to install aircrack-ng on our system.Open a terminal type and type the f
 
 ### <== Screentshots ==> ###
 
-![Screenshot at 2020-10-12 16-23-50](https://user-images.githubusercontent.com/69615463/95741685-4e26b580-0cac-11eb-8a8b-5b2a72d4dd32.png)
+
+![Screenshot at 2020-10-12 16-23-37](https://user-images.githubusercontent.com/69615463/95741274-a01b0b80-0cab-11eb-8ae8-9d1c3776befc.png)
 
 Next
 
-![Screenshot at 2020-10-12 16-23-37](https://user-images.githubusercontent.com/69615463/95741274-a01b0b80-0cab-11eb-8ae8-9d1c3776befc.png)
+![Screenshot at 2020-10-12 16-23-50](https://user-images.githubusercontent.com/69615463/95741685-4e26b580-0cac-11eb-8a8b-5b2a72d4dd32.png)
 
 Next
 
