@@ -31,7 +31,7 @@ We need to install aircrack-ng on our system.Open a terminal type and type the f
 
 <ul>
 <li>sudo pip3 install requirements.txt</li>
-<ul> 
+</ul> 
 
 ### <== Getting started ==> ###
 
@@ -39,6 +39,7 @@ We need to install aircrack-ng on our system.Open a terminal type and type the f
 <li>git clone https://github.com/r3k4t/wifiscanner2.0.git</li>
 <li>cd wifiscanner2.0</li>
 <li>sudo python3 pywifiscanner.py</li>
+</ul>
 
 ### <== Screentshots ==> ###
 
